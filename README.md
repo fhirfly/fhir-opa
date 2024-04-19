@@ -44,7 +44,7 @@ Next, run fhirwall with the correct configuration file.
 fhirwall is designed to intercept API requests and enforce authorization policies.
 
 Define your policies in Rego and load them into fhirwall.  fhirwall currently provides a powerful, standards based policy file that supports Smart on FHIR, and other advanced features. 
-whirwall will evaluate incoming API requests against these policies.
+Fhirwall will evaluate incoming API requests against these policies.
 
 For a detailed guide on policy creation, please refer to our The REGO language and the Open Policy Creation Guide.
 
